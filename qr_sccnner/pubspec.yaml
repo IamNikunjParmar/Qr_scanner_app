@@ -37,6 +37,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   circular_bottom_navigation: any
   font_awesome_flutter: any
+  qr_flutter: any
+  flutter_barcode_scanner: any
+  provider: any
+  get: any
+
 
 dev_dependencies:
   flutter_test:

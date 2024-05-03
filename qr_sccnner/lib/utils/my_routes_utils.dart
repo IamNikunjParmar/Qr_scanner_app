@@ -6,4 +6,6 @@ class MyRoutes {
   static String exploreScreen = ' explore_screen';
 
   static String networkScreen = 'network_screen';
+
+  static String barCodeScan = 'bar_code_scan';
 }

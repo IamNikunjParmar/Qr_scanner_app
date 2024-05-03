@@ -108,6 +108,7 @@ class __HomePageContentState extends State<_HomePageContent> {
         },
       ),
       body: SizedBox(
+        height: 800,
         child: PageView(
           controller: pageController,
           onPageChanged: (index) {
